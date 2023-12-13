@@ -1,1 +1,1 @@
-# This is my submission of Dicocing Proyek Money Tracker App
+# This is my submission of Dicoding Proyek Money Tracker App
